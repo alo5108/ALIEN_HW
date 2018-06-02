@@ -1,0 +1,38 @@
+input[type="search"] {
+    border-radius: 50px;
+}
+
+table.dataTable.display tbody tr.odd {
+    background-color: #1dee165b;
+}
+#myProgress {
+    width: 100%;
+    background-color: grey;
+}
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: rgb(128, 126, 0);
+}
+
+#ufo-loading {
+    text-align: center;
+}
+
+
+.navbar {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    height: 80px;
+}
+
+footer {
+    height: 80px
+}
+
+.navbar-brand {
+    font-size: 250%
+    
+}
